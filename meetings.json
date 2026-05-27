@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "title": "기획팀회의",
+    "date": "2026-06-01",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crp7ho",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-06-08",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crrq6i",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-06-15",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crizgt",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-06-22",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crfyh3",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-06-29",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crpcdh",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-07-06",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4cr8szo",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-07-13",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crpmgi",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-07-20",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crkmog",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-07-27",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crdf6t",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-08-03",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4cry6q3",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-08-10",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crjvum",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-08-17",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4cr5k7u",
+    "seriesId": "mpnjt4crk3yc"
+  },
+  {
+    "title": "기획팀회의",
+    "date": "2026-08-24",
+    "time": "14:30",
+    "color": "#3B82F6",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatEnd": "2026-08-30",
+    "id": "mpnjt4crt53t",
+    "seriesId": "mpnjt4crk3yc"
+  }
+]
