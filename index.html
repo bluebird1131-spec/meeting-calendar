@@ -86,8 +86,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
 .setup-needed{margin:20px;background:white;border-radius:12px;padding:28px 24px;text-align:center;border:1.5px dashed #cbd5e1}
 .setup-needed h3{color:#374151;margin-bottom:8px}
 .setup-needed p{color:#64748b;font-size:.85rem;margin-bottom:16px}
+/* Day list modal (mobile) */
+.day-list-item{display:flex;align-items:center;gap:10px;padding:11px 14px;border-radius:8px;cursor:pointer;transition:background .1s;border:none;width:100%;background:white;font-family:inherit;text-align:left}
+.day-list-item:hover{background:#f8fafc}
+.day-list-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.day-list-info{flex:1;min-width:0}
+.day-list-title{font-size:.88rem;font-weight:600;color:#1e293b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.day-list-meta{font-size:.75rem;color:#64748b;margin-top:1px}
+.day-list-add{display:flex;align-items:center;justify-content:center;padding:10px;border:1.5px dashed #e2e8f0;border-radius:8px;color:#64748b;font-size:.82rem;cursor:pointer;background:none;width:100%;font-family:inherit;margin-top:6px}
+.day-list-add:hover{border-color:#3B82F6;color:#3B82F6}
 @media(max-width:600px){
-  .cal-day{min-height:52px;padding:4px}
+  .cal-day{min-height:56px;padding:4px}
   .meeting-chip{display:none}
   .dots-row{display:flex}
   .cal-wrap{padding:8px}
@@ -205,6 +214,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
       <button class="btn btn-cancel" onclick="closeModal('detailModal')">닫기</button>
       <button class="btn btn-danger" id="deleteBtn" onclick="onDeleteClick()" style="display:none">삭제</button>
       <button class="btn btn-primary" id="editBtn" onclick="startEdit()" style="display:none">수정</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── Day List Modal (모바일용) ───────────────────────── -->
+<div class="modal-overlay" id="dayListModal">
+  <div class="modal" style="max-width:380px">
+    <h3 id="dayListTitle"></h3>
+    <div id="dayListItems" style="margin-top:4px"></div>
+    <div class="modal-footer">
+      <button class="btn btn-cancel" onclick="closeModal('dayListModal')">닫기</button>
     </div>
   </div>
 </div>
@@ -535,7 +555,10 @@ function buildCell(year,month,day,other,map) {
   const ms=map[ds]||[];
   const canEdit=isUnlocked&&!!getToken();
   let cls='cal-day'+(other?' other-month':'')+(isToday?' today':'')+(ms.length?' has-events':'');
-  const clickAttr=(!other&&canEdit)?`onclick="openAddModal('${ds}')"`:' ';
+  // 모바일: 일정 있으면 목록 팝업, 없고 편집모드면 추가 모달
+  const clickAttr=other?' ':ms.length
+    ?`onclick="openDayList('${ds}')"`
+    :(canEdit?`onclick="openAddModal('${ds}')"`:' ');
   const numColor=other?'#cbd5e1':dow===0?'#EF4444':dow===6?'#3B82F6':'#374151';
   const dayNumHtml=isToday
     ?`<div class="day-num"><span class="today-circle">${day}</span></div>`
@@ -554,6 +577,33 @@ function buildCell(year,month,day,other,map) {
 
 function prevMonth(){if(--currentMonth<0){currentMonth=11;currentYear--;}renderCalendar();}
 function nextMonth(){if(++currentMonth>11){currentMonth=0;currentYear++;}renderCalendar();}
+
+// ── Day List (모바일 날짜 탭) ─────────────────────────────
+function openDayList(ds) {
+  const dayMeetings = meetings.filter(m=>m.date===ds)
+    .sort((a,b)=>(a.time||'').localeCompare(b.time||''));
+  const [y,mo,d] = ds.split('-');
+  const dow = DAY_NAMES[new Date(+y,+mo-1,+d).getDay()];
+  document.getElementById('dayListTitle').textContent=`${+mo}월 ${+d}일 (${dow})`;
+  const canEdit = isUnlocked && !!getToken();
+  const items = dayMeetings.map(m=>{
+    const rIcon = m.seriesId ? '🔁 ' : '';
+    const timeStr = m.time ? m.time.slice(0,5)+' · ' : '';
+    return `<button class="day-list-item" onclick="closeModal('dayListModal');openDetail('${m.id}')">
+      <span class="day-list-dot" style="background:${m.color||'#3B82F6'}"></span>
+      <span class="day-list-info">
+        <span class="day-list-title">${rIcon}${escH(m.title)}</span>
+        <span class="day-list-meta">${timeStr}${m.members||''}</span>
+      </span>
+      <span style="color:#94a3b8;font-size:.8rem">›</span>
+    </button>`;
+  }).join('');
+  const addBtn = canEdit
+    ? `<button class="day-list-add" onclick="closeModal('dayListModal');openAddModal('${ds}')">+ 이 날에 회의 추가</button>`
+    : '';
+  document.getElementById('dayListItems').innerHTML = items + addBtn;
+  document.getElementById('dayListModal').classList.add('show');
+}
 
 // ── Color Picker ──────────────────────────────────────────
 function renderColorPicker() {
