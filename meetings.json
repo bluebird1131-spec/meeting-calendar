@@ -37440,5 +37440,5066 @@
     "repeatNthDay": 3,
     "id": "mpnphz5tr2uc",
     "seriesId": "mpnphz5t5me7"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-05-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grses3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-06-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpoc6",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-06-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpx72",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-06-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grywn2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-06-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr34ll",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-06-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grozww",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-07-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr639e",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-07-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1u14",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-07-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grcb2j",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-07-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnczx",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-08-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3jdu",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-08-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grc066",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-08-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr96ce",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-08-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grm2b6",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-08-31",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr55gm",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-09-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grd5rf",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-09-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6greei7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-09-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grupyw",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-09-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpd92",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-10-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grv1v1",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-10-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9mf7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-10-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdqqg",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-10-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grp9hl",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-11-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnr08",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-11-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grgwhn",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-11-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grina2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-11-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grjl5i",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-11-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr2auz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-12-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1fri",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-12-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grxkyl",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-12-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr0eyj",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2026-12-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grzeam",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-01-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr2qnx",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-01-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grn1au",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-01-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grix44",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-01-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr50xh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-02-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfzi3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-02-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1r1z",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-02-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grrvtd",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-02-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdfwr",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-03-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr37up",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-03-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grwxq6",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-03-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grr3cf",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-03-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grjj1v",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-03-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gre5bs",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-04-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grgi4f",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-04-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grmr7o",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-04-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gry9qi",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-04-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4p0c",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-05-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr87g5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-05-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr88kl",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-05-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr69ze",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-05-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gryf00",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-05-31",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1o03",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-06-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grxmku",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-06-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grg8f4",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-06-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfzed",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-06-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grp5v7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-07-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grspc3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-07-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grlv9g",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-07-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grw68z",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-07-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grvfow",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-08-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6griv6z",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-08-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbl1b",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-08-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gre96b",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-08-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6growg9",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-08-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grvh2k",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-09-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gra6of",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-09-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grn83v",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-09-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8msy",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-09-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grwajp",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-10-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grkviz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-10-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnlvm",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-10-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbi7q",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-10-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6greqnf",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-11-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdvoo",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-11-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grp5cb",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-11-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr0j35",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-11-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6griao0",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-11-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr359y",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-12-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3yod",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-12-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grkv07",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-12-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grav1s",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2027-12-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grtc8p",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-01-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gro6di",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-01-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6groi61",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-01-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gruatw",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-01-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grsj06",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-01-31",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr7ij8",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-02-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grxof6",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-02-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grlcov",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-02-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grhaz3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-02-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr0xyh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-03-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr0eib",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-03-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6graou5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-03-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6griwv1",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-03-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grj39h",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-04-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grwuf0",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-04-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grhm6l",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-04-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr92ev",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-04-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4v1w",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-05-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gryitk",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-05-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gremea",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-05-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr81p5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-05-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr7fup",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-05-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gruu04",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-06-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gre0ox",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-06-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grux5l",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-06-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grc19v",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-06-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grv8h7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-07-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdv31",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-07-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grgavo",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-07-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfr4g",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-07-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grmkbg",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-07-31",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grolou",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-08-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grd8zz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-08-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9ir9",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-08-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5v9x",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-08-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9srr",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-09-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9hdo",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-09-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr58zc",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-09-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grlgby",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-09-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grehs2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-10-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr28tt",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-10-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr7uib",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-10-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr7yin",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-10-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5pqg",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-10-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grh0j3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-11-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr2jrs",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-11-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grlu74",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-11-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grddal",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-11-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6griq5k",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-12-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grd645",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-12-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5hfq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-12-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grvfrx",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2028-12-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gryb9p",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-01-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4igz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-01-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grkhuq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-01-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4ep5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-01-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3ggi",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-01-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grtxyt",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-02-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3o0c",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-02-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4l4z",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-02-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr11n5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-02-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5you",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-03-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8gx5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-03-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3l3q",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-03-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grf4po",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-03-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grq4qh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-04-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbfdh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-04-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grynai",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-04-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1htj",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-04-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grn9qo",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-04-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grffzz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-05-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfl1t",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-05-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr0ke4",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-05-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8mph",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-05-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grmnuy",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-06-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr048d",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-06-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr6qx8",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-06-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grrlue",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-06-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grkrol",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-07-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnnyq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-07-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grgehl",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-07-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr1ayj",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-07-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpgrz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-07-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5c5d",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-08-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grstls",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-08-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grqr3t",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-08-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grjcsu",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-08-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnyfh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-09-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbjmb",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-09-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5fbz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-09-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grk0cu",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-09-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grn7v2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-10-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9zr7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-10-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8ugm",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-10-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grlw69",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-10-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grrmoc",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-10-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grjzkk",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-11-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grv7g0",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-11-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4mgz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-11-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grcyyh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-11-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gru4c2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-12-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbfzv",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-12-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdi6d",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-12-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grwyxd",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-12-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grygn7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2029-12-31",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr2aty",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-01-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4ype",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-01-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grksfe",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-01-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grcp3l",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-01-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gryocn",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-02-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr91w5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-02-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grzzs3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-02-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gridw2",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-02-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grnf2l",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-03-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3qi3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-03-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbqgp",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-03-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gri37e",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-03-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grzp46",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-04-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grl4sq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-04-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8unh",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-04-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr3qyy",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-04-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grjx01",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-04-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grb2da",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-05-06",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfdrf",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-05-13",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr8bw8",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-05-20",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr64zs",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-05-27",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grghkj",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-06-03",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grsvao",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-06-10",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr2x0w",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-06-17",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpocy",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-06-24",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grx5mi",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-07-01",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr23ea",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-07-08",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grbm7i",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-07-15",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr5zcs",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-07-22",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grzlqm",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-07-29",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grq1oq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-08-05",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdpgp",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-08-12",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grmpm6",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-08-19",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grypdj",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-08-26",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grj5i5",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-09-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr4016",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-09-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grgwrp",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-09-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6graj60",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-09-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grxy2d",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-09-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grrha3",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-10-07",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grpmt9",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-10-14",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grb3lt",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-10-21",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grhdu1",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-10-28",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfx9q",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-11-04",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grkrtc",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-11-11",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr9qaz",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-11-18",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grxwv7",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-11-25",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grec6v",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-12-02",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6gr19ow",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-12-09",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grfs3j",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-12-16",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grf2zq",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-12-23",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grb76o",
+    "seriesId": "mpnpj6gr0lhh"
+  },
+  {
+    "title": "운영부주관회의",
+    "date": "2030-12-30",
+    "emoji": "🧩",
+    "time": "08:30",
+    "color": "#F9A8D4",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "08:30"
+    },
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 3,
+    "repeatNthDay": 3,
+    "id": "mpnpj6grdyet",
+    "seriesId": "mpnpj6gr0lhh"
   }
 ]
