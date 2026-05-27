@@ -176,6 +176,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
 .day-btn{padding:5px 11px;border-radius:20px;border:1.5px solid var(--border);background:white;font-size:.77rem;cursor:pointer;font-weight:800;transition:all .13s;font-family:inherit;color:var(--text2)}
 .day-btn:hover{border-color:var(--primary);color:var(--primary)}
 .day-btn.on{background:linear-gradient(135deg,var(--primary),var(--sky));color:white;border-color:transparent;box-shadow:0 2px 8px rgba(37,99,235,.3)}
+/* per-day time inputs */
+.day-time-rows{margin-top:10px;display:flex;flex-direction:column;gap:6px}
+.day-time-row{display:flex;align-items:center;gap:10px;background:white;border-radius:9px;padding:8px 13px;border:1.5px solid var(--primary-soft);box-shadow:0 1px 4px rgba(37,99,235,.07);animation:fadeIn .15s ease}
+.day-time-label{font-size:.82rem;font-weight:900;color:var(--primary);min-width:42px;letter-spacing:-.1px}
+.day-time-sep{font-size:.72rem;color:var(--text3)}
+.day-time-input{flex:1;padding:6px 10px;border:1.5px solid var(--border);border-radius:6px;font-size:.86rem;outline:none;font-family:inherit;background:#FAFBFD;color:var(--text);transition:all .15s}
+.day-time-input:focus{border-color:var(--primary);box-shadow:0 0 0 2px rgba(37,99,235,.1);background:white}
+.day-time-hint{font-size:.68rem;color:var(--text3);margin-top:7px;padding:5px 8px;background:rgba(37,99,235,.05);border-radius:6px;line-height:1.5}
 
 /* ── EDIT / DELETE OPTIONS ───────────────────────────────── */
 .options-list{display:flex;flex-direction:column;gap:8px;margin:12px 0}
@@ -417,7 +425,7 @@ const EMOJIS=[
 ];
 
 let config={},meetings=[],fileSha=null,currentYear,currentMonth;
-let selectedColor=PRESET_COLORS[0],selectedDays=[],selectedEmoji='';
+let selectedColor=PRESET_COLORS[0],selectedDays=[],selectedDayTimes={},selectedEmoji='';
 let editingId=null,editMode='single',selectedDetailId=null,selectedDate=null,isUnlocked=false;
 
 const today=new Date();
@@ -665,14 +673,57 @@ function selectColor(c){selectedColor=c;document.querySelectorAll('.color-swatch
 function rgbToHex(rgb){const m=rgb.match(/\d+/g);if(!m||m.length<3)return rgb;return '#'+m.slice(0,3).map(x=>parseInt(x).toString(16).padStart(2,'0')).join('');}
 
 // ── Repeat UI ─────────────────────────────────────────────
-function renderDayBtns(){document.getElementById('dayBtns').innerHTML=DAY_NAMES.map((n,i)=>`<button class="day-btn${selectedDays.includes(i)?' on':''}" onclick="toggleDay(${i})">${n}</button>`).join('');}
-function toggleDay(i){selectedDays.includes(i)?selectedDays.splice(selectedDays.indexOf(i),1):selectedDays.push(i);renderDayBtns();}
-function onRepeatChange(){const v=document.getElementById('mtRepeat').value;document.getElementById('repeatSection').style.display=v==='none'?'none':'block';document.getElementById('weekdayPicker').style.display=v==='weekly'?'block':'none';document.getElementById('nthPicker').style.display=v==='monthly_nth'?'block':'none';if(v==='weekly')renderDayBtns();}
+function getDefaultTime(){return document.getElementById('mtTime').value||'';}
+
+function renderDayBtns(){
+  const sorted=[0,1,2,3,4,5,6];
+  document.getElementById('dayBtns').innerHTML=sorted.map(i=>`<button class="day-btn${selectedDays.includes(i)?' on':''}" onclick="toggleDay(${i})">${DAY_NAMES[i]}</button>`).join('');
+  // per-day time rows
+  const rows=selectedDays.slice().sort((a,b)=>a-b).map(i=>{
+    const t=selectedDayTimes[i]||'';
+    return `<div class="day-time-row">
+      <span class="day-time-label">${DAY_NAMES[i]}요일</span>
+      <span class="day-time-sep">⏰</span>
+      <input class="day-time-input" type="time" value="${t}" oninput="setDayTime(${i},this.value)" placeholder="시간 미설정">
+    </div>`;
+  }).join('');
+  let container=document.getElementById('dayTimeRows');
+  if(!container){
+    container=document.createElement('div');container.id='dayTimeRows';container.className='day-time-rows';
+    document.getElementById('weekdayPicker').appendChild(container);
+  }
+  if(selectedDays.length){
+    container.innerHTML=rows+`<div class="day-time-hint">💡 요일마다 다른 시간을 설정할 수 있습니다. 비워두면 시간 미정으로 저장됩니다.</div>`;
+  }else{
+    container.innerHTML='';
+  }
+}
+
+function toggleDay(i){
+  if(selectedDays.includes(i)){
+    selectedDays.splice(selectedDays.indexOf(i),1);
+    delete selectedDayTimes[i];
+  }else{
+    selectedDays.push(i);
+    selectedDayTimes[i]=getDefaultTime();
+  }
+  renderDayBtns();
+}
+
+function setDayTime(day,time){selectedDayTimes[day]=time;}
+
+function onRepeatChange(){
+  const v=document.getElementById('mtRepeat').value;
+  document.getElementById('repeatSection').style.display=v==='none'?'none':'block';
+  document.getElementById('weekdayPicker').style.display=v==='weekly'?'block':'none';
+  document.getElementById('nthPicker').style.display=v==='monthly_nth'?'block':'none';
+  if(v==='weekly')renderDayBtns();
+}
 
 // ── Add Modal ─────────────────────────────────────────────
 function openAddModal(dateStr){
   if(!isUnlocked||!getToken()){showStatus('🔒 편집 모드를 먼저 활성화하세요.','error');return;}
-  editingId=null;editMode='single';selectedColor=PRESET_COLORS[0];selectedDays=[];selectedEmoji='';
+  editingId=null;editMode='single';selectedColor=PRESET_COLORS[0];selectedDays=[];selectedDayTimes={};selectedEmoji='';
   document.getElementById('addModalTitle').textContent='회의 추가';
   document.getElementById('mtTitle').value='';
   document.getElementById('mtDate').value=dateStr||toDateStr(today);
@@ -705,7 +756,7 @@ function selectEditMode(mode){
 }
 
 function openEditForm(m){
-  editingId=m.id;selectedColor=m.color||PRESET_COLORS[0];selectedDays=m.repeatDays||[];selectedEmoji=m.emoji||'';
+  editingId=m.id;selectedColor=m.color||PRESET_COLORS[0];selectedDays=m.repeatDays||[];selectedDayTimes=m.repeatDayTimes||{};selectedEmoji=m.emoji||'';
   const labels={single:'이 일정만 수정',future:'이후 일정 수정',all:'시리즈 전체 수정'};
   document.getElementById('addModalTitle').textContent=`회의 수정 — ${labels[editMode]||''}`;
   document.getElementById('mtTitle').value=m.title;
@@ -729,9 +780,12 @@ async function saveMeeting(){
   const repeatEnd=document.getElementById('mtRepeatEnd').value||'';
   const repeatNth=document.getElementById('mtNth').value;
   const repeatNthDay=document.getElementById('mtNthDay').value;
+  const isWeekly = repeatType==='weekly';
+  const dayTimesSnap = isWeekly ? {...selectedDayTimes} : {};
   const base={title,date,emoji:selectedEmoji,time:document.getElementById('mtTime').value,color:selectedColor,
     members:document.getElementById('mtMembers').value.trim(),description:document.getElementById('mtDesc').value.trim(),
-    repeatType,repeatDays:repeatType==='weekly'?[...selectedDays]:[],repeatEnd,repeatNth:parseInt(repeatNth),repeatNthDay:parseInt(repeatNthDay)};
+    repeatType,repeatDays:isWeekly?[...selectedDays]:[],repeatDayTimes:isWeekly?dayTimesSnap:{},
+    repeatEnd,repeatNth:parseInt(repeatNth),repeatNthDay:parseInt(repeatNthDay)};
   const backup=[...meetings];
   try{
     if(editingId){
@@ -743,9 +797,18 @@ async function saveMeeting(){
         meetings=meetings.filter(x=>!(x.seriesId===orig.seriesId&&x.date>=orig.date));
         const dates=generateSeriesDates(base.date,orig.repeatType,orig.repeatDays||[],orig.repeatEnd,orig.repeatNth,orig.repeatNthDay);
         const newSid=genId();
-        dates.forEach(d=>meetings.push({...orig,...base,id:genId(),date:d,seriesId:newSid}));
+        dates.forEach(d=>{
+          const dow=parseDate(d).getDay();
+          const t=(orig.repeatDayTimes&&orig.repeatDayTimes[dow]!=null)?orig.repeatDayTimes[dow]:base.time;
+          meetings.push({...orig,...base,id:genId(),date:d,time:t,seriesId:newSid});
+        });
       }else if(editMode==='all'&&orig){
-        meetings=meetings.map(x=>x.seriesId===orig.seriesId?{...x,title:base.title,emoji:base.emoji,color:base.color,time:base.time,members:base.members,description:base.description}:x);
+        meetings=meetings.map(x=>{
+          if(x.seriesId!==orig.seriesId)return x;
+          const dow=parseDate(x.date).getDay();
+          const t=(orig.repeatDayTimes&&orig.repeatDayTimes[dow]!=null)?orig.repeatDayTimes[dow]:base.time;
+          return {...x,title:base.title,emoji:base.emoji,color:base.color,time:t,members:base.members,description:base.description};
+        });
       }
       await pushMeetings(`수정(${editMode}): ${title}`);
     }else if(repeatType==='none'){
@@ -754,7 +817,11 @@ async function saveMeeting(){
     }else{
       const dates=generateSeriesDates(date,repeatType,base.repeatDays,repeatEnd,repeatNth,repeatNthDay);
       const seriesId=genId();
-      dates.forEach(d=>meetings.push({...base,id:genId(),date:d,seriesId}));
+      dates.forEach(d=>{
+        const dow=parseDate(d).getDay();
+        const t=isWeekly&&dayTimesSnap[dow]!=null?dayTimesSnap[dow]:base.time;
+        meetings.push({...base,id:genId(),date:d,time:t,seriesId});
+      });
       await pushMeetings(`반복 추가: ${title} (${dates.length}건)`);
     }
     document.getElementById('mtRepeat').disabled=false;
