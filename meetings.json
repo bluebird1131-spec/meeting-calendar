@@ -12572,5 +12572,959 @@
     "emoji": "",
     "repeatNth": 1,
     "repeatNthDay": 0
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-05-29",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsc168",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-06-05",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsx0sm",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-06-12",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qscsd5",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-06-19",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsjf8z",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-06-26",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsfalu",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-07-03",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsth5p",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-07-10",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsldvo",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-07-17",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsd478",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-07-24",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsdsi8",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-07-31",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsmlk0",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-08-07",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsz0w6",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-08-14",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs389o",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-08-21",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs82w8",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-08-28",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsxz6c",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-09-04",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qserbu",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-09-11",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs3kw0",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-09-18",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qstrrb",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-09-25",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsy15k",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-10-02",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs8o10",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-10-09",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsm7bl",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-10-16",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsad24",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-10-23",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsv69l",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-10-30",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qso1bs",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-11-06",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qso8zr",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-11-13",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsqm44",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-11-20",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsdqt6",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-11-27",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsxwq8",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-12-04",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs7pzq",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-12-11",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs2wxh",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-12-18",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsp9pm",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2026-12-25",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs5kjc",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-01-01",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs8nq4",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-01-08",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsar4n",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-01-15",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qse8zu",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-01-22",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs1fka",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-01-29",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qstu9u",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-02-05",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs0b9f",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-02-12",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs10nu",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-02-19",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs06ho",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-02-26",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsz6en",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-03-05",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs5d3f",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-03-12",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsos1w",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-03-19",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs3y30",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-03-26",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsxw2j",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-04-02",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs0h4k",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-04-09",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qs1ubh",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-04-16",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsukmz",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-04-23",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qse4c6",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-04-30",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsb8dn",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-05-07",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsx7tp",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-05-14",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsi21t",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-05-21",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qswi6t",
+    "seriesId": "mpnof0qs0adg"
+  },
+  {
+    "title": "리더십 미팅",
+    "date": "2027-05-28",
+    "emoji": "",
+    "time": "13:30",
+    "color": "#86EFAC",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      5
+    ],
+    "repeatEnd": "",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnof0qsiaig",
+    "seriesId": "mpnof0qs0adg"
   }
 ]
