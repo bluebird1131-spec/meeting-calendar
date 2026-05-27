@@ -1710,7 +1710,7 @@
     "title": "결재",
     "date": "2026-06-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1719,13 +1719,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhxah5",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-06-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1734,13 +1735,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh7jck",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-06-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1749,13 +1751,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhhkv7",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-06-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1764,13 +1767,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhx337",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-07-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1779,13 +1783,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhwv5a",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-07-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1794,13 +1799,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0ent",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-07-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1809,13 +1815,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhhbjq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-07-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1824,13 +1831,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh8s52",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-07-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1839,13 +1847,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh4k3u",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-08-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1854,13 +1863,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhhgbn",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-08-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1869,13 +1879,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhtv4g",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-08-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1884,13 +1895,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhvks2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-08-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1899,13 +1911,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhnldy",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-09-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1914,13 +1927,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5clz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-09-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1929,13 +1943,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhv66w",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-09-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1944,13 +1959,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhifwu",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-09-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1959,13 +1975,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0rvj",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-10-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1974,13 +1991,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh7dzq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-10-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -1989,13 +2007,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrle9",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-10-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2004,13 +2023,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhok2e",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-10-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2019,13 +2039,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhvns7",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-10-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2034,13 +2055,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhjayw",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-11-05",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2049,13 +2071,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhc9zt",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-11-12",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2064,13 +2087,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhv3r6",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-11-19",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2079,13 +2103,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhf39t",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-11-26",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2094,13 +2119,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhh5qb",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-12-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2109,13 +2135,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbpq2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-12-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2124,13 +2151,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh7irs",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-12-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2139,13 +2167,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht9vl",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-12-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2154,13 +2183,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh87qa",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2026-12-31",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2169,13 +2199,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhmo7c",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-01-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2184,13 +2215,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejha8ir",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-01-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2199,13 +2231,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhl4g7",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-01-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2214,13 +2247,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh34gz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-01-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2229,13 +2263,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhvyze",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-02-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2244,13 +2279,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht9vz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-02-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2259,13 +2295,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhf1ih",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-02-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2274,13 +2311,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhjwd2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-02-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2289,13 +2327,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejha6g2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-03-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2304,13 +2343,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh2gqg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-03-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2319,13 +2359,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrjht",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-03-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2334,13 +2375,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhqbva",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-03-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2349,13 +2391,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhdky0",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-04-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2364,13 +2407,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhp1r0",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-04-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2379,13 +2423,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhv387",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-04-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2394,13 +2439,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejheq2k",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-04-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2409,13 +2455,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhzteo",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-04-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2424,13 +2471,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejho26x",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-05-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2439,13 +2487,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhipka",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-05-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2454,13 +2503,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejheqt3",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-05-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2469,13 +2519,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhqyzc",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-05-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2484,13 +2535,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhplrx",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-06-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2499,13 +2551,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrbfd",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-06-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2514,13 +2567,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5mn2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-06-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2529,13 +2583,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhxcpm",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-06-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2544,13 +2599,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5m2h",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-07-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2559,13 +2615,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhf01i",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-07-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2574,13 +2631,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhvyu4",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-07-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2589,13 +2647,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh1ots",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-07-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2604,13 +2663,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5xme",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-07-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2619,13 +2679,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh56td",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-08-05",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2634,13 +2695,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhq1if",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-08-12",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2649,13 +2711,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbkss",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-08-19",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2664,13 +2727,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhd7j0",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-08-26",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2679,13 +2743,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhkrq8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-09-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2694,13 +2759,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0qk9",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-09-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2709,13 +2775,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhizbg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-09-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2724,13 +2791,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejheszu",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-09-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2739,13 +2807,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhn9ny",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-09-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2754,13 +2823,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhgftv",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-10-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2769,13 +2839,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhsxmp",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-10-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2784,13 +2855,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhoi7a",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-10-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2799,13 +2871,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5bsj",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-10-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2814,13 +2887,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhuz25",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-11-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2829,13 +2903,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5i4v",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-11-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2844,13 +2919,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrwzk",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-11-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2859,13 +2935,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0yn2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-11-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2874,13 +2951,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhf745",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-12-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2889,13 +2967,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrb5s",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-12-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2904,13 +2983,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpnok",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-12-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2919,13 +2999,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhnni8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-12-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2934,13 +3015,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhta4s",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2027-12-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2949,13 +3031,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhyq68",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-01-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2964,13 +3047,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh1b5w",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-01-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2979,13 +3063,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0njc",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-01-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -2994,13 +3079,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhso7w",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-01-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3009,13 +3095,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhnn4d",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-02-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3024,13 +3111,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhfq35",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-02-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3039,13 +3127,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhj18c",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-02-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3054,13 +3143,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhp2kh",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-02-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3069,13 +3159,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhdq2n",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-03-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3084,13 +3175,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhn2tt",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-03-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3099,13 +3191,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhi6y5",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-03-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3114,13 +3207,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh8vau",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-03-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3129,13 +3223,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhuamd",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-03-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3144,13 +3239,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhmwd3",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-04-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3159,13 +3255,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejho7me",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-04-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3174,13 +3271,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhdh2g",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-04-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3189,13 +3287,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh4y5u",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-04-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3204,13 +3303,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhc6n2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-05-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3219,13 +3319,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhartq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-05-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3234,13 +3335,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhkdty",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-05-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3249,13 +3351,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhz35m",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-05-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3264,13 +3367,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpcss",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-06-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3279,13 +3383,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhp1kv",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-06-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3294,13 +3399,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhgumn",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-06-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3309,13 +3415,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh84ac",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-06-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3324,13 +3431,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5gh8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-06-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3339,13 +3447,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhozta",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-07-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3354,13 +3463,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhk2wa",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-07-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3369,13 +3479,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhcowx",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-07-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3384,13 +3495,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhtpa0",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-07-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3399,13 +3511,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhe7mq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-08-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3414,13 +3527,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhtdj2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-08-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3429,13 +3543,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh1mh6",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-08-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3444,13 +3559,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh4qiq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-08-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3459,13 +3575,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhmk3l",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-08-31",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3474,13 +3591,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhshgd",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-09-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3489,13 +3607,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhzoc7",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-09-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3504,13 +3623,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhr9b1",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-09-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3519,13 +3639,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh0wob",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-09-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3534,13 +3655,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhcbc8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-10-05",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3549,13 +3671,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhzk2x",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-10-12",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3564,13 +3687,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpgxv",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-10-19",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3579,13 +3703,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh9ywh",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-10-26",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3594,13 +3719,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhxxib",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-11-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3609,13 +3735,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhazet",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-11-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3624,13 +3751,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhiib1",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-11-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3639,13 +3767,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhuejp",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-11-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3654,13 +3783,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhwgbx",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-11-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3669,13 +3799,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhinln",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-12-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3684,13 +3815,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhfjse",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-12-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3699,13 +3831,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhcmr6",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-12-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3714,13 +3847,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejha9zp",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2028-12-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3729,13 +3863,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht8w2",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-01-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3744,13 +3879,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhlk3v",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-01-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3759,13 +3895,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbj83",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-01-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3774,13 +3911,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpa8l",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-01-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3789,13 +3927,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhfrb8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-02-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3804,13 +3943,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh7qr1",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-02-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3819,13 +3959,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh3c2a",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-02-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3834,13 +3975,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhba4j",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-02-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3849,13 +3991,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhmf18",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-03-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3864,13 +4007,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhgo80",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-03-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3879,13 +4023,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhfvm1",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-03-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3894,13 +4039,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh3yjr",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-03-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3909,13 +4055,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhu741",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-03-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3924,13 +4071,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh6fxw",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-04-05",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3939,13 +4087,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhxslz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-04-12",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3954,13 +4103,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbsj5",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-04-19",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3969,13 +4119,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht51e",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-04-26",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3984,13 +4135,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejho7yg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-05-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -3999,13 +4151,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhjxsp",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-05-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4014,13 +4167,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh2vu9",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-05-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4029,13 +4183,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhkydp",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-05-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4044,13 +4199,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh5v62",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-05-31",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4059,13 +4215,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhicnd",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-06-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4074,13 +4231,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh264m",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-06-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4089,13 +4247,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhqyqi",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-06-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4104,13 +4263,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh2e2i",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-06-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4119,13 +4279,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejha5tg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-07-05",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4134,13 +4295,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh88pg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-07-12",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4149,13 +4311,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhugh7",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-07-19",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4164,13 +4327,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhca3y",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-07-26",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4179,13 +4343,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhg2ec",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-08-02",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4194,13 +4359,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh91nk",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-08-09",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4209,13 +4375,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh9dc3",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-08-16",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4224,13 +4391,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh3o49",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-08-23",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4239,13 +4407,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhzs3q",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-08-30",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4254,13 +4423,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhxssz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-09-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4269,13 +4439,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhdc3j",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-09-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4284,13 +4455,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejho0e4",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-09-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4299,13 +4471,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh4amz",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-09-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4314,13 +4487,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhhy50",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-10-04",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4329,13 +4503,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh17wq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-10-11",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4344,13 +4519,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh3xq1",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-10-18",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4359,13 +4535,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhso3n",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-10-25",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4374,13 +4551,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhek7b",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-11-01",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4389,13 +4567,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhz3zv",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-11-08",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4404,13 +4583,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht2cl",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-11-15",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4419,13 +4599,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpn8y",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-11-22",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4434,13 +4615,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhn3cc",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-11-29",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4449,13 +4631,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejha5yc",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-12-06",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4464,13 +4647,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbqdk",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-12-13",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4479,13 +4663,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhbyrg",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-12-20",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4494,13 +4679,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhza7e",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2029-12-27",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4509,13 +4695,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh8wfw",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-01-03",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4524,13 +4711,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhrjrq",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-01-10",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4539,13 +4727,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhcy2f",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-01-17",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4554,13 +4743,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhcia9",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-01-24",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4569,13 +4759,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhph32",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-01-31",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4584,13 +4775,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh3yv8",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-02-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4599,13 +4791,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejht3m3",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-02-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4614,13 +4807,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhpkok",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-02-21",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4629,13 +4823,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh6l6l",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-02-28",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4644,13 +4839,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhymle",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-03-07",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4659,13 +4855,14 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejhldtv",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "결재",
     "date": "2030-03-14",
     "time": "14:30",
-    "color": "#EF4444",
+    "color": "#FCA5A5",
     "members": "",
     "description": "",
     "repeatType": "weekly",
@@ -4674,7 +4871,8 @@
     ],
     "repeatEnd": "2030-03-20",
     "id": "mpnkgejh53c4",
-    "seriesId": "mpnkgejhcudw"
+    "seriesId": "mpnkgejhcudw",
+    "emoji": ""
   },
   {
     "title": "경영진 오찬",
