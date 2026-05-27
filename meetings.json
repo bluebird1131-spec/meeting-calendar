@@ -12498,5 +12498,5066 @@
     "repeatNthDay": 0,
     "id": "mpnp86mfeb03",
     "seriesId": "mpnp86mftyui"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-05-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrbad",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-06-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebr2ur",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-06-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb572r",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-06-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebdtkt",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-06-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb2m00",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-06-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebhhcd",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-07-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebsj42",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-07-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb93tn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-07-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebjxm4",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-07-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5rfp",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-08-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb32cb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-08-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6e3v",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-08-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebtgau",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-08-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateby53h",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-08-31",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebltfj",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-09-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblei2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-09-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebm7j5",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-09-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebad0y",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-09-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzf13",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-10-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb8v3s",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-10-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebg6lk",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-10-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb92me",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-10-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9olq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-11-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbvd4",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-11-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebuil8",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-11-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb54x4",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-11-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebegl7",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-11-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6mqp",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-12-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblcx1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-12-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb8yut",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-12-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb03x3",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2026-12-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb74vn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-01-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebws4m",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-01-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebcbr0",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-01-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblr8h",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-01-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb2d77",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-02-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateby558",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-02-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzxof",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-02-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebgfj3",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-02-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebuk47",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-03-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebm70f",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-03-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpji1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-03-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebghlm",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-03-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzejq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-03-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb4t9k",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-04-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb3fkq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-04-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebx7f5",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-04-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebcw6d",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-04-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebypdw",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-05-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb4nj9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-05-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrwda",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-05-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebyupq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-05-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebgcri",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-05-31",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebdtiy",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-06-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb0sdj",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-06-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb62wg",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-06-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9tbs",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-06-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9mpz",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-07-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbxzb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-07-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebismu",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-07-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebud5g",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-07-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzwdx",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-08-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqkxg",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-08-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxbyk",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-08-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb3i4m",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-08-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebea9o",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-08-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebalt1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-09-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpjk2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-09-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebp3a9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-09-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblimt",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-09-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrj0n",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-10-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblecw",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-10-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebdbnk",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-10-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebx7ap",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-10-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebonjv",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-11-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebaxmo",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-11-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebo77d",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-11-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb7m9y",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-11-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb8k4q",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-11-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb8xc2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-12-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpyul",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-12-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebeyup",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-12-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblhqu",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2027-12-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb0o3c",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-01-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebesql",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-01-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5gac",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-01-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebwto2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-01-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebuj1n",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-01-31",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebd47c",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-02-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebaqqk",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-02-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebnex7",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-02-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6iwg",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-02-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebniok",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-03-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb7szf",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-03-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebthqb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-03-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebau3q",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-03-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebye5l",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-04-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9xic",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-04-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfy0k",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-04-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb8qfe",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-04-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebp38c",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-05-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzjc5",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-05-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbtav",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-05-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbutb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-05-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxz49",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-05-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebkwbz",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-06-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqgby",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-06-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb291o",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-06-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb82pc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-06-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebk5uc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-07-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebak97",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-07-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebjzd3",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-07-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebr3hm",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-07-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqh8i",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-07-31",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxgkd",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-08-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebtmvd",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-08-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5o2w",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-08-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebngc6",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-08-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebee3c",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-09-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebs3fc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-09-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxd1a",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-09-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb2pgm",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-09-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpvn7",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-10-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxysn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-10-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebj250",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-10-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebkuif",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-10-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebsli1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-10-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqf6f",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-11-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebe0h1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-11-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebkiyc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-11-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb51m8",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-11-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqvbi",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-12-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5hqc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-12-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebsgqi",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-12-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebotc9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2028-12-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebzhnh",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-01-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfiur",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-01-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebwukg",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-01-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebsqud",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-01-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebc5xa",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-01-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbsem",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-02-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebz4cb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-02-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebs353",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-02-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebmeuq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-02-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebb4h2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-03-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebw4k8",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-03-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6zua",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-03-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebqiso",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-03-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxnv3",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-04-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6ig4",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-04-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateba7wa",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-04-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebvkuw",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-04-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebq5le",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-04-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebx091",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-05-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb20m2",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-05-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebt0f5",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-05-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb17fy",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-05-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebui0l",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-06-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebar1u",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-06-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6zhc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-06-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb4fzd",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-06-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrso1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-07-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebjx7v",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-07-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebbqpq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-07-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebesiu",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-07-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebs93h",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-07-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebk2n1",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-08-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebnsob",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-08-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9yak",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-08-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebogaf",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-08-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebvnme",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-09-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb3m6o",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-09-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebb7el",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-09-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfs7y",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-09-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb1l44",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-10-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebsp88",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-10-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrnzb",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-10-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpod7",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-10-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebhd3n",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-10-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebtnaz",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-11-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateboh5e",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-11-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebyfkq",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-11-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebdgbe",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-11-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebg94u",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-12-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb2c1z",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-12-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebluzo",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-12-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb3yrr",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-12-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfe6q",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2029-12-31",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebz08b",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-01-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb75wc",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-01-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebx7ns",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-01-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb79wm",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-01-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebkhnt",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-02-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebh6kj",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-02-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebip9o",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-02-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebamvp",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-02-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateby233",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-03-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebj4e6",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-03-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebovjm",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-03-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6fd9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-03-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebc08v",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-04-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebueah",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-04-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb410m",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-04-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebc3cn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-04-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb9vjn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-04-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpp9r",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-05-06",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb55xx",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-05-13",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebe6dx",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-05-20",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebnb8q",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-05-27",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebw62c",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-06-03",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebszez",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-06-10",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfc2l",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-06-17",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb4uym",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-06-24",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5qev",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-07-01",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebcu6a",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-07-08",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb98ja",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-07-15",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebg2jj",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-07-22",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebflys",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-07-29",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb5o7v",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-08-05",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebn4xd",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-08-12",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebuxg9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-08-19",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebcmux",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-08-26",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebu0s0",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-09-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb3s7g",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-09-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebmw88",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-09-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebf6xj",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-09-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebnb5t",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-09-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfz11",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-10-07",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebpt1y",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-10-14",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebh2z0",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-10-21",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebxp03",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-10-28",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebahv4",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-11-04",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebf8sn",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-11-11",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateblbsv",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-11-18",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb6qk9",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-11-25",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpateb350e",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-12-02",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebakyu",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-12-09",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebvnec",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-12-16",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebduc3",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-12-23",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebrg4h",
+    "seriesId": "mpnpateb1j42"
+  },
+  {
+    "title": "경영진오찬",
+    "date": "2030-12-30",
+    "emoji": "🍽️",
+    "time": "12:00",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "weekly",
+    "repeatDays": [
+      1
+    ],
+    "repeatDayTimes": {
+      "1": "12:00"
+    },
+    "repeatEnd": "2030-12-30",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpnpatebfidv",
+    "seriesId": "mpnpateb1j42"
   }
 ]
