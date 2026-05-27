@@ -1695,19 +1695,6 @@
   },
   {
     "title": "결재",
-    "date": "2026-05-28",
-    "time": "14:30",
-    "color": "#EF4444",
-    "members": "",
-    "description": "",
-    "repeatType": "none",
-    "repeatDays": [],
-    "repeatEnd": "2030-07-30",
-    "id": "mpnkenu96ipa",
-    "seriesId": "mpnkenu960lx"
-  },
-  {
-    "title": "결재",
     "date": "2026-06-04",
     "time": "14:30",
     "color": "#FCA5A5",
