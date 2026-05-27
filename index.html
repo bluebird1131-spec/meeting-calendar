@@ -176,14 +176,19 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
 .day-btn{padding:5px 11px;border-radius:20px;border:1.5px solid var(--border);background:white;font-size:.77rem;cursor:pointer;font-weight:800;transition:all .13s;font-family:inherit;color:var(--text2)}
 .day-btn:hover{border-color:var(--primary);color:var(--primary)}
 .day-btn.on{background:linear-gradient(135deg,var(--primary),var(--sky));color:white;border-color:transparent;box-shadow:0 2px 8px rgba(37,99,235,.3)}
-/* per-day time inputs */
+/* per-day / per-date time inputs */
 .day-time-rows{margin-top:10px;display:flex;flex-direction:column;gap:6px}
 .day-time-row{display:flex;align-items:center;gap:10px;background:white;border-radius:9px;padding:8px 13px;border:1.5px solid var(--primary-soft);box-shadow:0 1px 4px rgba(37,99,235,.07);animation:fadeIn .15s ease}
-.day-time-label{font-size:.82rem;font-weight:900;color:var(--primary);min-width:42px;letter-spacing:-.1px}
+.day-time-label{font-size:.82rem;font-weight:900;color:var(--primary);min-width:52px;letter-spacing:-.1px}
 .day-time-sep{font-size:.72rem;color:var(--text3)}
 .day-time-input{flex:1;padding:6px 10px;border:1.5px solid var(--border);border-radius:6px;font-size:.86rem;outline:none;font-family:inherit;background:#FAFBFD;color:var(--text);transition:all .15s}
 .day-time-input:focus{border-color:var(--primary);box-shadow:0 0 0 2px rgba(37,99,235,.1);background:white}
 .day-time-hint{font-size:.68rem;color:var(--text3);margin-top:7px;padding:5px 8px;background:rgba(37,99,235,.05);border-radius:6px;line-height:1.5}
+/* date-of-month buttons */
+.date-btns{display:flex;gap:4px;margin-top:8px;flex-wrap:wrap}
+.date-btn{padding:5px 8px;border-radius:8px;border:1.5px solid var(--border);background:white;font-size:.75rem;cursor:pointer;font-weight:800;transition:all .13s;font-family:inherit;color:var(--text2);min-width:34px;text-align:center}
+.date-btn:hover{border-color:var(--primary);color:var(--primary)}
+.date-btn.on{background:linear-gradient(135deg,var(--primary),var(--sky));color:white;border-color:transparent;box-shadow:0 2px 8px rgba(37,99,235,.3)}
 
 /* ── EDIT / DELETE OPTIONS ───────────────────────────────── */
 .options-list{display:flex;flex-direction:column;gap:8px;margin:12px 0}
@@ -314,8 +319,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
       </select>
       <div class="repeat-section" id="repeatSection" style="display:none">
         <div id="weekdayPicker" style="display:none">
-          <span style="font-size:.73rem;color:var(--text2);font-weight:800">반복 요일 선택</span>
+          <span style="font-size:.73rem;color:var(--text2);font-weight:800" id="weekdayPickerLabel">반복 요일 선택</span>
           <div class="day-btns" id="dayBtns"></div>
+        </div>
+        <div id="monthDatePicker" style="display:none">
+          <span style="font-size:.73rem;color:var(--text2);font-weight:800">반복 날짜 선택 (복수 선택 가능)</span>
+          <div class="date-btns" id="dateBtns"></div>
+          <div class="day-time-rows" id="monthDateTimeRows"></div>
         </div>
         <div id="nthPicker" style="display:none;margin-bottom:4px">
           <span style="font-size:.73rem;color:var(--text2);font-weight:800">매월 몇 번째 무슨 요일?</span>
@@ -426,6 +436,7 @@ const EMOJIS=[
 
 let config={},meetings=[],fileSha=null,currentYear,currentMonth;
 let selectedColor=PRESET_COLORS[0],selectedDays=[],selectedDayTimes={},selectedEmoji='';
+let selectedMonthDates=[],selectedMonthDateTimes={};
 let editingId=null,editMode='single',selectedDetailId=null,selectedDate=null,isUnlocked=false;
 
 const today=new Date();
@@ -484,16 +495,54 @@ function parseDate(s){const[y,m,d]=s.split('-').map(Number);return new Date(y,m-
 function toDateStr(d){return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function fmtDate(s){const[y,m,d]=s.split('-');return `${y}년 ${+m}월 ${+d}일 (${DAY_NAMES[new Date(+y,+m-1,+d).getDay()]})`;}
 function getNthWeekday(year,month,nth,weekday){const first=new Date(year,month,1);const offset=((weekday-first.getDay())+7)%7;const day=1+offset+(nth-1)*7;const dim=new Date(year,month+1,0).getDate();return day<=dim?new Date(year,month,day):null;}
-function generateSeriesDates(startDate,repeatType,repeatDays,endDate,repeatNth,repeatNthDay){
+function generateSeriesDates(startDate,repeatType,repeatDays,endDate,repeatNth,repeatNthDay,repeatMonthDates){
   if(repeatType==='none')return[startDate];
   const start=parseDate(startDate);
   const limit=endDate?parseDate(endDate):new Date(start.getFullYear()+1,start.getMonth(),start.getDate());
   const dates=[];
-  if(repeatType==='daily'){let d=new Date(start);while(d<=limit&&dates.length<500){dates.push(toDateStr(d));d.setDate(d.getDate()+1);}}
-  else if(repeatType==='weekly'){const days=repeatDays.length?repeatDays:[start.getDay()];let d=new Date(start);while(d<=limit&&dates.length<500){if(days.includes(d.getDay()))dates.push(toDateStr(d));d.setDate(d.getDate()+1);}}
-  else if(repeatType==='biweekly'){let d=new Date(start);while(d<=limit&&dates.length<200){dates.push(toDateStr(d));d.setDate(d.getDate()+14);}}
-  else if(repeatType==='monthly'){let d=new Date(start);while(d<=limit&&dates.length<60){dates.push(toDateStr(d));d.setMonth(d.getMonth()+1);}}
-  else if(repeatType==='monthly_nth'){const nth=parseInt(repeatNth)||1;const wd=parseInt(repeatNthDay);let y=start.getFullYear(),m=start.getMonth();while(dates.length<60){const d=getNthWeekday(y,m,nth,wd);if(d&&d>=start&&d<=limit)dates.push(toDateStr(d));if(d&&d>limit)break;m++;if(m>11){m=0;y++;}if(new Date(y,m,1)>limit)break;}}
+  if(repeatType==='daily'){
+    let d=new Date(start);while(d<=limit&&dates.length<500){dates.push(toDateStr(d));d.setDate(d.getDate()+1);}
+  }
+  else if(repeatType==='weekly'){
+    const days=repeatDays.length?repeatDays:[start.getDay()];
+    let d=new Date(start);while(d<=limit&&dates.length<500){if(days.includes(d.getDay()))dates.push(toDateStr(d));d.setDate(d.getDate()+1);}
+  }
+  else if(repeatType==='biweekly'){
+    if(repeatDays&&repeatDays.length>0){
+      // multi-day biweekly: each selected weekday repeats every 2 weeks
+      const all=[];
+      repeatDays.forEach(wd=>{
+        let d=new Date(start);
+        const off=((wd-d.getDay())+7)%7;d.setDate(d.getDate()+off);
+        while(d<=limit&&all.length<500){all.push(toDateStr(d));d=new Date(d);d.setDate(d.getDate()+14);}
+      });
+      return[...new Set(all)].sort();
+    }else{
+      let d=new Date(start);while(d<=limit&&dates.length<200){dates.push(toDateStr(d));d.setDate(d.getDate()+14);}
+    }
+  }
+  else if(repeatType==='monthly'){
+    const mds=repeatMonthDates&&repeatMonthDates.length>0?repeatMonthDates:[start.getDate()];
+    const all=[];
+    mds.forEach(dom=>{
+      let y=start.getFullYear(),m=start.getMonth();
+      for(let i=0;i<60;i++){
+        const maxDay=new Date(y,m+1,0).getDate();
+        const actualDay=Math.min(dom,maxDay);
+        const d=new Date(y,m,actualDay);
+        if(d>=start&&d<=limit)all.push(toDateStr(d));
+        if(d>limit)break;
+        m++;if(m>11){m=0;y++;}
+        if(new Date(y,m,1)>limit)break;
+      }
+    });
+    return[...new Set(all)].sort();
+  }
+  else if(repeatType==='monthly_nth'){
+    const nth=parseInt(repeatNth)||1;const wd=parseInt(repeatNthDay);
+    let y=start.getFullYear(),m=start.getMonth();
+    while(dates.length<60){const d=getNthWeekday(y,m,nth,wd);if(d&&d>=start&&d<=limit)dates.push(toDateStr(d));if(d&&d>limit)break;m++;if(m>11){m=0;y++;}if(new Date(y,m,1)>limit)break;}
+  }
   return dates;
 }
 
@@ -675,10 +724,11 @@ function rgbToHex(rgb){const m=rgb.match(/\d+/g);if(!m||m.length<3)return rgb;re
 // ── Repeat UI ─────────────────────────────────────────────
 function getDefaultTime(){return document.getElementById('mtTime').value||'';}
 
+/* ── Weekday picker (weekly & biweekly) ── */
 function renderDayBtns(){
-  const sorted=[0,1,2,3,4,5,6];
-  document.getElementById('dayBtns').innerHTML=sorted.map(i=>`<button class="day-btn${selectedDays.includes(i)?' on':''}" onclick="toggleDay(${i})">${DAY_NAMES[i]}</button>`).join('');
-  // per-day time rows
+  document.getElementById('dayBtns').innerHTML=[0,1,2,3,4,5,6].map(i=>
+    `<button class="day-btn${selectedDays.includes(i)?' on':''}" onclick="toggleDay(${i})">${DAY_NAMES[i]}</button>`
+  ).join('');
   const rows=selectedDays.slice().sort((a,b)=>a-b).map(i=>{
     const t=selectedDayTimes[i]||'';
     return `<div class="day-time-row">
@@ -692,45 +742,69 @@ function renderDayBtns(){
     container=document.createElement('div');container.id='dayTimeRows';container.className='day-time-rows';
     document.getElementById('weekdayPicker').appendChild(container);
   }
-  if(selectedDays.length){
-    container.innerHTML=rows+`<div class="day-time-hint">💡 요일마다 다른 시간을 설정할 수 있습니다. 비워두면 시간 미정으로 저장됩니다.</div>`;
-  }else{
-    container.innerHTML='';
-  }
+  container.innerHTML=selectedDays.length
+    ? rows+`<div class="day-time-hint">💡 요일마다 다른 시간을 설정할 수 있습니다. 비워두면 시간 미정으로 저장됩니다.</div>`
+    : '';
 }
-
 function toggleDay(i){
-  if(selectedDays.includes(i)){
-    selectedDays.splice(selectedDays.indexOf(i),1);
-    delete selectedDayTimes[i];
-  }else{
-    selectedDays.push(i);
-    selectedDayTimes[i]=getDefaultTime();
-  }
+  if(selectedDays.includes(i)){selectedDays.splice(selectedDays.indexOf(i),1);delete selectedDayTimes[i];}
+  else{selectedDays.push(i);selectedDayTimes[i]=getDefaultTime();}
   renderDayBtns();
 }
-
 function setDayTime(day,time){selectedDayTimes[day]=time;}
+
+/* ── Month-date picker (monthly) ── */
+function renderDateBtns(){
+  document.getElementById('dateBtns').innerHTML=Array.from({length:31},(_,k)=>k+1).map(d=>
+    `<button class="date-btn${selectedMonthDates.includes(d)?' on':''}" onclick="toggleMonthDate(${d})">${d}</button>`
+  ).join('');
+  const rows=selectedMonthDates.slice().sort((a,b)=>a-b).map(d=>{
+    const t=selectedMonthDateTimes[d]||'';
+    return `<div class="day-time-row">
+      <span class="day-time-label">매월 ${d}일</span>
+      <span class="day-time-sep">⏰</span>
+      <input class="day-time-input" type="time" value="${t}" oninput="setMonthDateTime(${d},this.value)" placeholder="시간 미설정">
+    </div>`;
+  }).join('');
+  document.getElementById('monthDateTimeRows').innerHTML=selectedMonthDates.length
+    ? rows+`<div class="day-time-hint">💡 날짜마다 다른 시간을 설정할 수 있습니다. 29~31일은 해당 월에 없으면 말일로 처리됩니다.</div>`
+    : '';
+}
+function toggleMonthDate(d){
+  if(selectedMonthDates.includes(d)){selectedMonthDates.splice(selectedMonthDates.indexOf(d),1);delete selectedMonthDateTimes[d];}
+  else{selectedMonthDates.push(d);selectedMonthDateTimes[d]=getDefaultTime();}
+  renderDateBtns();
+}
+function setMonthDateTime(d,time){selectedMonthDateTimes[d]=time;}
 
 function onRepeatChange(){
   const v=document.getElementById('mtRepeat').value;
   document.getElementById('repeatSection').style.display=v==='none'?'none':'block';
-  document.getElementById('weekdayPicker').style.display=v==='weekly'?'block':'none';
+  const showWeekday=v==='weekly'||v==='biweekly';
+  document.getElementById('weekdayPicker').style.display=showWeekday?'block':'none';
+  document.getElementById('monthDatePicker').style.display=v==='monthly'?'block':'none';
   document.getElementById('nthPicker').style.display=v==='monthly_nth'?'block':'none';
-  if(v==='weekly')renderDayBtns();
+  if(v==='weekly')document.getElementById('weekdayPickerLabel').textContent='반복 요일 선택';
+  if(v==='biweekly')document.getElementById('weekdayPickerLabel').textContent='격주 반복 요일 선택';
+  if(showWeekday)renderDayBtns();
+  if(v==='monthly')renderDateBtns();
 }
 
 // ── Add Modal ─────────────────────────────────────────────
 function openAddModal(dateStr){
   if(!isUnlocked||!getToken()){showStatus('🔒 편집 모드를 먼저 활성화하세요.','error');return;}
-  editingId=null;editMode='single';selectedColor=PRESET_COLORS[0];selectedDays=[];selectedDayTimes={};selectedEmoji='';
+  editingId=null;editMode='single';selectedColor=PRESET_COLORS[0];
+  selectedDays=[];selectedDayTimes={};selectedMonthDates=[];selectedMonthDateTimes={};selectedEmoji='';
   document.getElementById('addModalTitle').textContent='회의 추가';
   document.getElementById('mtTitle').value='';
   document.getElementById('mtDate').value=dateStr||toDateStr(today);
   document.getElementById('mtTime').value='';document.getElementById('mtMembers').value='';document.getElementById('mtDesc').value='';
   document.getElementById('mtRepeat').value='none';document.getElementById('mtRepeatEnd').value='';
   document.getElementById('mtRepeat').disabled=false;
-  document.getElementById('repeatSection').style.display='none';document.getElementById('weekdayPicker').style.display='none';document.getElementById('nthPicker').style.display='none';
+  document.getElementById('repeatSection').style.display='none';
+  document.getElementById('weekdayPicker').style.display='none';
+  document.getElementById('monthDatePicker').style.display='none';
+  document.getElementById('nthPicker').style.display='none';
   renderEmojiPicker('');renderColorPicker();
   document.getElementById('addModal').classList.add('show');document.getElementById('mtTitle').focus();
 }
@@ -756,7 +830,10 @@ function selectEditMode(mode){
 }
 
 function openEditForm(m){
-  editingId=m.id;selectedColor=m.color||PRESET_COLORS[0];selectedDays=m.repeatDays||[];selectedDayTimes=m.repeatDayTimes||{};selectedEmoji=m.emoji||'';
+  editingId=m.id;selectedColor=m.color||PRESET_COLORS[0];
+  selectedDays=m.repeatDays||[];selectedDayTimes=m.repeatDayTimes||{};
+  selectedMonthDates=m.repeatMonthDates||[];selectedMonthDateTimes=m.repeatMonthDateTimes||{};
+  selectedEmoji=m.emoji||'';
   const labels={single:'이 일정만 수정',future:'이후 일정 수정',all:'시리즈 전체 수정'};
   document.getElementById('addModalTitle').textContent=`회의 수정 — ${labels[editMode]||''}`;
   document.getElementById('mtTitle').value=m.title;
@@ -780,11 +857,20 @@ async function saveMeeting(){
   const repeatEnd=document.getElementById('mtRepeatEnd').value||'';
   const repeatNth=document.getElementById('mtNth').value;
   const repeatNthDay=document.getElementById('mtNthDay').value;
-  const isWeekly = repeatType==='weekly';
-  const dayTimesSnap = isWeekly ? {...selectedDayTimes} : {};
+  const isWeekly=repeatType==='weekly';
+  const isBiweekly=repeatType==='biweekly';
+  const isMonthly=repeatType==='monthly';
+  const useDayTimes=isWeekly||isBiweekly;
+  const dayTimesSnap=useDayTimes?{...selectedDayTimes}:{};
+  const monthDatesSnap=isMonthly?[...selectedMonthDates]:[];
+  const monthDateTimesSnap=isMonthly?{...selectedMonthDateTimes}:{};
   const base={title,date,emoji:selectedEmoji,time:document.getElementById('mtTime').value,color:selectedColor,
     members:document.getElementById('mtMembers').value.trim(),description:document.getElementById('mtDesc').value.trim(),
-    repeatType,repeatDays:isWeekly?[...selectedDays]:[],repeatDayTimes:isWeekly?dayTimesSnap:{},
+    repeatType,
+    repeatDays:useDayTimes?[...selectedDays]:[],
+    repeatDayTimes:useDayTimes?dayTimesSnap:{},
+    repeatMonthDates:monthDatesSnap,
+    repeatMonthDateTimes:monthDateTimesSnap,
     repeatEnd,repeatNth:parseInt(repeatNth),repeatNthDay:parseInt(repeatNthDay)};
   const backup=[...meetings];
   try{
@@ -815,11 +901,12 @@ async function saveMeeting(){
       meetings.push({...base,id:genId(),seriesId:null});
       await pushMeetings(`추가: ${title}`);
     }else{
-      const dates=generateSeriesDates(date,repeatType,base.repeatDays,repeatEnd,repeatNth,repeatNthDay);
+      const dates=generateSeriesDates(date,repeatType,base.repeatDays,repeatEnd,repeatNth,repeatNthDay,monthDatesSnap);
       const seriesId=genId();
       dates.forEach(d=>{
-        const dow=parseDate(d).getDay();
-        const t=isWeekly&&dayTimesSnap[dow]!=null?dayTimesSnap[dow]:base.time;
+        let t=base.time;
+        if(useDayTimes){const dow=parseDate(d).getDay();if(dayTimesSnap[dow]!=null)t=dayTimesSnap[dow];}
+        else if(isMonthly&&monthDatesSnap.length>0){const dom=parseDate(d).getDate();if(monthDateTimesSnap[dom]!=null)t=monthDateTimesSnap[dom];}
         meetings.push({...base,id:genId(),date:d,time:t,seriesId});
       });
       await pushMeetings(`반복 추가: ${title} (${dates.length}건)`);
