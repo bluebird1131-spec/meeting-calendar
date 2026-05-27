@@ -86,15 +86,23 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans
 .setup-needed{margin:20px;background:white;border-radius:12px;padding:28px 24px;text-align:center;border:1.5px dashed #cbd5e1}
 .setup-needed h3{color:#374151;margin-bottom:8px}
 .setup-needed p{color:#64748b;font-size:.85rem;margin-bottom:16px}
-/* Day list modal (mobile) */
-.day-list-item{display:flex;align-items:center;gap:10px;padding:11px 14px;border-radius:8px;cursor:pointer;transition:background .1s;border:none;width:100%;background:white;font-family:inherit;text-align:left}
-.day-list-item:hover{background:#f8fafc}
+/* Day panel (하단 선택 날짜 개요) */
+.day-panel{background:white;border-top:2px solid #e2e8f0;padding:16px 20px 24px;animation:slideUp .2s ease}
+@keyframes slideUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.day-panel-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.day-panel-date{font-size:1rem;font-weight:700;color:#1e293b}
+.day-panel-add{background:#3B82F6;color:white;border:none;border-radius:7px;padding:6px 14px;font-size:.8rem;font-weight:600;cursor:pointer;font-family:inherit}
+.day-panel-add:hover{opacity:.85}
+.day-panel-empty{text-align:center;padding:24px;color:#94a3b8;font-size:.85rem}
+.day-list-item{display:flex;align-items:center;gap:12px;padding:10px 14px;border-radius:8px;cursor:pointer;transition:background .1s;border:none;width:100%;background:#f8fafc;font-family:inherit;text-align:left;margin-bottom:6px}
+.day-list-item:hover{background:#eff6ff}
 .day-list-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .day-list-info{flex:1;min-width:0}
-.day-list-title{font-size:.88rem;font-weight:600;color:#1e293b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.day-list-meta{font-size:.75rem;color:#64748b;margin-top:1px}
-.day-list-add{display:flex;align-items:center;justify-content:center;padding:10px;border:1.5px dashed #e2e8f0;border-radius:8px;color:#64748b;font-size:.82rem;cursor:pointer;background:none;width:100%;font-family:inherit;margin-top:6px}
-.day-list-add:hover{border-color:#3B82F6;color:#3B82F6}
+.day-list-title{font-size:.88rem;font-weight:600;color:#1e293b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block}
+.day-list-meta{font-size:.75rem;color:#64748b;margin-top:2px;display:block}
+.day-list-badge{font-size:.7rem;padding:1px 7px;border-radius:10px;color:white;font-weight:600;flex-shrink:0}
+/* 선택된 날짜 강조 */
+.cal-day.selected-day{background:#eff6ff;border-color:#3B82F6}
 @media(max-width:600px){
   .cal-day{min-height:56px;padding:4px}
   .meeting-chip{display:none}
@@ -298,6 +306,7 @@ let selectedColor = PRESET_COLORS[6];
 let selectedDays = [];
 let editingId = null;
 let selectedDetailId = null;
+let selectedDate = null;  // 하단 패널에 표시 중인 날짜
 let isUnlocked = false;  // 편집 모드 여부 (세션 동안만 유지)
 
 const today = new Date();
@@ -523,7 +532,8 @@ function renderAll() {
         <div style="color:#3B82F6">토</div>
       </div>
       <div class="cal-days" id="calDays"></div>
-    </div>`;
+    </div>
+    <div id="dayPanel"></div>`;
   renderCalendar();
 }
 
@@ -554,7 +564,7 @@ function buildCell(year,month,day,other,map) {
   const isToday=!other&&day===today.getDate()&&am===today.getMonth()&&ay===today.getFullYear();
   const ms=map[ds]||[];
   const canEdit=isUnlocked&&!!getToken();
-  let cls='cal-day'+(other?' other-month':'')+(isToday?' today':'')+(ms.length?' has-events':'');
+  let cls='cal-day'+(other?' other-month':'')+(isToday?' today':'')+(ms.length?' has-events':'')+(ds===selectedDate?' selected-day':'');
   // 날짜 클릭 → 항상 해당 날 목록/추가 팝업 (데스크탑·모바일 동일)
   const clickAttr=other?' ':`onclick="openDayList('${ds}')"`;
   const numColor=other?'#cbd5e1':dow===0?'#EF4444':dow===6?'#3B82F6':'#374151';
@@ -576,33 +586,49 @@ function buildCell(year,month,day,other,map) {
 function prevMonth(){if(--currentMonth<0){currentMonth=11;currentYear--;}renderCalendar();}
 function nextMonth(){if(++currentMonth>11){currentMonth=0;currentYear++;}renderCalendar();}
 
-// ── Day List (모바일 날짜 탭) ─────────────────────────────
+// ── Day Panel (날짜 클릭 → 하단 개요) ───────────────────
 function openDayList(ds) {
+  selectedDate = ds;
+  renderCalendar(); // 선택 날짜 강조 갱신
+
   const dayMeetings = meetings.filter(m=>m.date===ds)
     .sort((a,b)=>(a.time||'').localeCompare(b.time||''));
   const [y,mo,d] = ds.split('-');
   const dow = DAY_NAMES[new Date(+y,+mo-1,+d).getDay()];
-  document.getElementById('dayListTitle').textContent=`${+mo}월 ${+d}일 (${dow})`;
   const canEdit = isUnlocked && !!getToken();
+
   const items = dayMeetings.length
     ? dayMeetings.map(m=>{
-        const rIcon = m.seriesId ? '🔁 ' : '';
-        const timeStr = m.time ? m.time.slice(0,5)+' · ' : '';
-        return `<button class="day-list-item" onclick="closeModal('dayListModal');openDetail('${m.id}')">
+        const timeStr = m.time ? m.time.slice(0,5) : '시간 미정';
+        const repeatBadge = m.seriesId
+          ? `<span class="day-list-badge" style="background:#6366F1">🔁 ${REPEAT_LABELS[m.repeatType]||'반복'}</span>` : '';
+        return `<button class="day-list-item" onclick="openDetail('${m.id}')">
           <span class="day-list-dot" style="background:${m.color||'#3B82F6'}"></span>
           <span class="day-list-info">
-            <span class="day-list-title">${rIcon}${escH(m.title)}</span>
-            <span class="day-list-meta">${timeStr}${escH(m.members||'')}</span>
+            <span class="day-list-title">${escH(m.title)}</span>
+            <span class="day-list-meta">⏰ ${timeStr}${m.members?' &nbsp;·&nbsp; 👥 '+escH(m.members):''}</span>
           </span>
-          <span style="color:#94a3b8;font-size:.8rem">›</span>
+          ${repeatBadge}
+          <span style="color:#cbd5e1;font-size:.9rem">›</span>
         </button>`;
       }).join('')
-    : `<p style="text-align:center;color:#94a3b8;font-size:.85rem;padding:20px 0">등록된 회의가 없습니다.</p>`;
+    : `<div class="day-panel-empty">📭 등록된 회의가 없습니다.</div>`;
+
   const addBtn = canEdit
-    ? `<button class="day-list-add" onclick="closeModal('dayListModal');openAddModal('${ds}')">+ 이 날에 회의 추가</button>`
-    : '';
-  document.getElementById('dayListItems').innerHTML = items + addBtn;
-  document.getElementById('dayListModal').classList.add('show');
+    ? `<button class="day-panel-add" onclick="openAddModal('${ds}')">+ 회의 추가</button>` : '';
+
+  document.getElementById('dayPanel').innerHTML = `
+    <div class="day-panel">
+      <div class="day-panel-header">
+        <span class="day-panel-date">📅 ${+mo}월 ${+d}일 (${dow})</span>
+        ${addBtn}
+      </div>
+      ${items}
+    </div>`;
+
+  // 모바일: 패널로 스크롤
+  if(window.innerWidth<=600)
+    document.getElementById('dayPanel').scrollIntoView({behavior:'smooth',block:'start'});
 }
 
 // ── Color Picker ──────────────────────────────────────────
@@ -703,6 +729,7 @@ async function saveMeeting() {
     closeModal('addModal');
     showStatus('✅ 저장되었습니다.','success');
     renderCalendar();
+    if(selectedDate) openDayList(selectedDate);
   } catch(e){
     meetings=backup;
     showStatus('❌ '+e.message,'error');
@@ -763,6 +790,7 @@ async function doDelete(mode) {
     await pushMeetings(`삭제(${mode}): ${m.title}`);
     showStatus('✅ 삭제되었습니다.','success');
     renderCalendar();
+    if(selectedDate) openDayList(selectedDate);
   } catch(e){ meetings=backup; showStatus('❌ '+e.message,'error'); }
 }
 
