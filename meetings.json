@@ -8222,13 +8222,14 @@
     "color": "#22C55E",
     "members": "",
     "description": "",
-    "repeatType": "weekly",
-    "repeatDays": [
-      2
-    ],
-    "repeatEnd": "2030-12-31",
+    "repeatType": "none",
+    "repeatDays": [],
+    "repeatEnd": "",
     "id": "mpnkiqa6inbn",
-    "seriesId": "mpnkiqa658hw"
+    "seriesId": "mpnkiqa658hw",
+    "emoji": "📊",
+    "repeatNth": 1,
+    "repeatNthDay": 0
   },
   {
     "title": "리더십미팅",
