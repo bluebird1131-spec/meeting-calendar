@@ -20,12 +20,10 @@
     "time": "11:00",
     "color": "#EF4444",
     "members": "",
-    "description": "",
-    "repeatType": "weekly",
-    "repeatDays": [
-      1
-    ],
-    "repeatEnd": "",
+    "description": "ㄴㅇㄴㅇ",
+    "repeatType": "none",
+    "repeatDays": [],
+    "repeatEnd": "2030-03-20",
     "id": "mpnkdim7sb06",
     "seriesId": "mpnkdim75x3u"
   },
