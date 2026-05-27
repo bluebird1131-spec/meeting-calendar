@@ -4862,38 +4862,6 @@
     "emoji": ""
   },
   {
-    "title": "경영진 오찬",
-    "date": "2026-05-25",
-    "time": "12:00",
-    "color": "#7DD3FC",
-    "members": "",
-    "description": "",
-    "repeatType": "weekly",
-    "repeatDays": [
-      1
-    ],
-    "repeatEnd": "2030-12-30",
-    "id": "mpnkhp57ht76",
-    "seriesId": "mpnkhp57t7v8",
-    "emoji": "🍽️"
-  },
-  {
-    "title": "경영진 오찬",
-    "date": "2026-06-01",
-    "time": "12:00",
-    "color": "#7DD3FC",
-    "members": "",
-    "description": "",
-    "repeatType": "weekly",
-    "repeatDays": [
-      1
-    ],
-    "repeatEnd": "2030-12-30",
-    "id": "mpnkhp575j04",
-    "seriesId": "mpnkhp57t7v8",
-    "emoji": "🍽️"
-  },
-  {
     "title": "리더십미팅",
     "date": "2026-05-26",
     "time": "08:00",
