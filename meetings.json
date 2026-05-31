@@ -47696,24 +47696,5 @@
     "repeatNthDay": 3,
     "id": "mpnpo7fxkwqp",
     "seriesId": "mpnpo7fx88uy"
-  },
-  {
-    "title": "비용절감",
-    "date": "2026-06-11",
-    "emoji": "📈",
-    "time": "08:30",
-    "color": "#60A5FA",
-    "members": "",
-    "description": "",
-    "repeatType": "none",
-    "repeatDays": [],
-    "repeatDayTimes": {},
-    "repeatMonthDates": [],
-    "repeatMonthDateTimes": {},
-    "repeatEnd": "",
-    "repeatNth": 1,
-    "repeatNthDay": 0,
-    "id": "mpudnv1c4c7x",
-    "seriesId": null
   }
 ]
