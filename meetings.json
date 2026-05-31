@@ -47696,5 +47696,2742 @@
     "repeatNthDay": 3,
     "id": "mpnpo7fxkwqp",
     "seriesId": "mpnpo7fx88uy"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-06-11",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4aexiz",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-06-25",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bfcuq",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-07-09",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4baxf9",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-07-23",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bwrml",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-08-06",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4broou",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-08-20",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4byi8h",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-09-03",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b4w4v",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-09-17",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bl2u0",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-10-01",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bejaz",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-10-15",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4btgwx",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-10-29",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bqjm7",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-11-12",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bi1w1",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-11-26",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b551y",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-12-10",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b3lyg",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2026-12-24",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bbmsv",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-01-07",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b9t5w",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-01-21",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bm291",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-02-04",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bybcf",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-02-18",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bo7ur",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-03-04",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bje7r",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-03-18",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bx5st",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-04-01",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b13w9",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-04-15",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4byp7l",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-04-29",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bcd1n",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-05-13",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bf38m",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-05-27",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b8zch",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-06-10",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bo1zb",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-06-24",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bl8dg",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-07-08",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bgqcf",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-07-22",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4beghr",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-08-05",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bfxzg",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-08-19",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b8f6p",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-09-02",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bajk0",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-09-16",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bdusl",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-09-30",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bdtt9",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-10-14",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bvvef",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-10-28",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b4ywa",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-11-11",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bixbp",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-11-25",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bs0t2",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-12-09",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bquoj",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2027-12-23",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b3qss",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-01-06",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bm3r1",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-01-20",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bismt",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-02-03",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b5sn7",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-02-17",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bu8j1",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-03-02",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bzbcv",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-03-16",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4baz0p",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-03-30",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bn91d",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-04-13",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4blwup",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-04-27",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4btmq4",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-05-11",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4betg2",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-05-25",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b577q",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-06-08",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b48pi",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-06-22",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bv68f",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-07-06",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b0d4l",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-07-20",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bi3mh",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-08-03",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b0658",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-08-17",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bd7zl",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-08-31",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b983c",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-09-14",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4be7h7",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-09-28",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4by1p9",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-10-12",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b29jj",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-10-26",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bwsw4",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-11-09",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bqafd",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-11-23",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bppm5",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-12-07",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4buuoj",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2028-12-21",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4blf4q",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-01-04",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b0a6u",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-01-18",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b5ef6",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-02-01",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b1xo1",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-02-15",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b6asp",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-03-01",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b90t8",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-03-15",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bl9ux",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-03-29",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4buzx5",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-04-12",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4btu34",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-04-26",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bpobo",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-05-10",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bsqor",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-05-24",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bw6zf",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-06-07",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bj3fv",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-06-21",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bjxch",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-07-05",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b83m0",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-07-19",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bw1wy",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-08-02",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b8wsn",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-08-16",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b3xop",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-08-30",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bq43x",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-09-13",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bztpc",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-09-27",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b4in7",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-10-11",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4blc04",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-10-25",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bk1iv",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-11-08",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bhynh",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-11-22",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4btysv",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-12-06",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bbo5c",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2029-12-20",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b8s2s",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-01-03",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bnpkm",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-01-17",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4ba1pd",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-01-31",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4b9v2r",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-02-14",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bmjdo",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-02-28",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bnasb",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-03-14",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bss99",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-03-28",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bebik",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-04-11",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bic66",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-04-25",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bz9t0",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-05-09",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bpiwm",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-05-23",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4bc8as",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-06-06",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4co5e5",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-06-20",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cwdoq",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-07-04",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cq7v0",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-07-18",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cse0l",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-08-01",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4ceguw",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-08-15",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4ckubm",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-08-29",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cuppn",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-09-12",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cpyi7",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-09-26",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cn1uu",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-10-10",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cijmu",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-10-24",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cue2r",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-11-07",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4c9t7w",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-11-21",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4c5luu",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-12-05",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4cxv1p",
+    "seriesId": "mpudox4ausx3"
+  },
+  {
+    "title": "비용절감",
+    "date": "2030-12-19",
+    "emoji": "📈",
+    "time": "08:30",
+    "color": "#60A5FA",
+    "members": "",
+    "description": "",
+    "repeatType": "biweekly",
+    "repeatDays": [
+      4
+    ],
+    "repeatDayTimes": {
+      "4": "08:30"
+    },
+    "repeatMonthDates": [],
+    "repeatMonthDateTimes": {},
+    "repeatEnd": "2030-12-31",
+    "repeatNth": 1,
+    "repeatNthDay": 0,
+    "id": "mpudox4c8ttv",
+    "seriesId": "mpudox4ausx3"
   }
 ]
